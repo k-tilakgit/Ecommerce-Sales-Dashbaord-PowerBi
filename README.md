@@ -1,15 +1,15 @@
-Customer Sales Dashboard | Power BI
+# 📊 Ecommerce Sales Dashboard | Power BI
 
-An interactive **Power BI Sales Dashboard** built to analyze e-commerce sales data and provide meaningful business insights through dynamic visualizations and KPIs.
+An interactive **Power BI dashboard** built to analyze e-commerce sales data and deliver meaningful business insights through dynamic visualizations and KPIs.
 
-The dashboard helps businesses monitor sales performance, profitability, customer behavior, product categories, payment methods, and regional sales trends.
+The dashboard enables businesses to monitor sales performance, profitability, customer behavior, product categories, payment methods, and regional sales trends to support data-driven decision-making.
 
 ---
 
-## Features
+## 🚀 Features
 
-- Executive KPI cards
-  - Total Sales Amount
+- Executive KPI Cards
+  - Total Sales
   - Total Profit
   - Total Quantity Sold
   - Average Order Value (AOV)
@@ -18,86 +18,88 @@ The dashboard helps businesses monitor sales performance, profitability, custome
 
 - Sales Analysis by State
 
-- Profit Analysis by Month
+- Monthly Profit Analysis
 
 - Quantity Sold by Product Category
 
-- Profit by Product Sub-Category
+- Profit Analysis by Product Sub-Category
 
-- Sales by Customer
+- Customer-wise Sales Analysis
 
-- Orders by Payment Method
+- Payment Method Distribution
 
 ---
 
-## Dashboard Insights
+## 📈 Dashboard Insights
 
-- Total Sales: **438K**
-- Total Profit: **37K**
-- Total Quantity Sold: **5615**
-- Average Order Value: **121K**
+- **Total Sales:** 438K
+- **Total Profit:** 37K
+- **Total Quantity Sold:** 5,615
+- **Average Order Value (AOV):** 121K
 
-### Business Insights
+### Key Business Insights
 
 - Clothing contributes the highest sales quantity.
-- COD is the most preferred payment method.
-- Maharashtra generates the highest sales.
+- Maharashtra generates the highest sales revenue.
 - November records the highest monthly profit.
+- Cash on Delivery (COD) is the most preferred payment method.
 - Tables are the most profitable product sub-category.
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
-- Power BI Desktop
+- Microsoft Power BI Desktop
 - Power Query
-- DAX
-- Microsoft Excel / CSV
+- DAX (Data Analysis Expressions)
+- CSV Files
 - Data Modeling
 
 ---
 
-## Dataset
+## 📂 Dataset
 
 The project uses two datasets:
 
-- Orders.csv
-- Details.csv
+- **Orders.csv**
+- **Details.csv**
 
-These datasets are related using the **Order ID** field.
-
----
-
-## Dashboard Preview
-
-<img width="1306" height="734" alt="Screenshot" src="https://github.com/user-attachments/assets/6d4cc6db-c31f-47e9-aee9-2e03aaf42a15" />
-
+The datasets are connected using the **Order ID** field to build relationships and perform sales analysis.
 
 ---
 
-## Repository Structure
+## 📊 Dashboard Preview
 
-```
-Customer-Sales-Dashboard/
+![Dashboard](<img width="1306" height="734" alt="Screenshot" src="https://github.com/user-attachments/assets/8fe5d2fb-ef98-4942-832d-ae76620f2bf5" />
+)
+
+---
+
+## 📁 Repository Structure
+
+```text
+Ecommerce-Sales-Dashboard/
 │
-├── Customer Sales Dashboard.pbix
+├── Ecommerce Sales Dashboard.pbix
 ├── Orders.csv
 ├── Details.csv
 ├── Screenshot.png
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ---
 
-## Skills Demonstrated
+## 🎯 Skills Demonstrated
 
-- Data Cleaning
+- Data Cleaning & Transformation
 - Data Modeling
-- Power BI Dashboard Design
-- KPI Development
 - DAX Measures
-- Data Visualization
+- Power Query
+- Dashboard Design
+- KPI Development
 - Business Intelligence
+- Data Visualization
 - Sales Analytics
 
 ---
@@ -105,4 +107,5 @@ Customer-Sales-Dashboard/
 ## 👨‍💻 Author
 
 **Tilak K**
-Feel free to connect or provide feedback.
+
+Computer Science Graduate | Aspiring Data Analyst | Power BI Developer
