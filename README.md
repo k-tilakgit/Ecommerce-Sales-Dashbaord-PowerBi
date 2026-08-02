@@ -1,4 +1,4 @@
-<img width="1306" height="734" alt="Screenshot" src="https://github.com/user-attachments/assets/4dbbcd9a-11bd-4c24-b6ce-8e465da5d3b5" /># 📊 Customer Sales Dashboard | Power BI
+Customer Sales Dashboard | Power BI
 
 An interactive **Power BI Sales Dashboard** built to analyze e-commerce sales data and provide meaningful business insights through dynamic visualizations and KPIs.
 
@@ -6,7 +6,7 @@ The dashboard helps businesses monitor sales performance, profitability, custome
 
 ---
 
-## 🚀 Features
+## Features
 
 - Executive KPI cards
   - Total Sales Amount
@@ -30,7 +30,7 @@ The dashboard helps businesses monitor sales performance, profitability, custome
 
 ---
 
-## 📈 Dashboard Insights
+## Dashboard Insights
 
 - Total Sales: **438K**
 - Total Profit: **37K**
@@ -47,7 +47,7 @@ The dashboard helps businesses monitor sales performance, profitability, custome
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Power BI Desktop
 - Power Query
@@ -57,7 +57,7 @@ The dashboard helps businesses monitor sales performance, profitability, custome
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The project uses two datasets:
 
@@ -68,14 +68,14 @@ These datasets are related using the **Order ID** field.
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 <img width="1306" height="734" alt="Screenshot" src="https://github.com/user-attachments/assets/6d4cc6db-c31f-47e9-aee9-2e03aaf42a15" />
 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Customer-Sales-Dashboard/
@@ -89,7 +89,7 @@ Customer-Sales-Dashboard/
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Modeling
@@ -105,7 +105,4 @@ Customer-Sales-Dashboard/
 ## 👨‍💻 Author
 
 **Tilak K**
-
-Computer Science Graduate | Data Analyst | Power BI Developer
-
 Feel free to connect or provide feedback.
