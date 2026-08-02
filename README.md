@@ -70,8 +70,8 @@ The datasets are connected using the **Order ID** field to build relationships a
 
 ## 📊 Dashboard Preview
 
-![Dashboard](<img width="1306" height="734" alt="Screenshot" src="https://github.com/user-attachments/assets/8fe5d2fb-ef98-4942-832d-ae76620f2bf5" />
-)
+<img width="1306" height="734" alt="Screenshot" src="https://github.com/user-attachments/assets/cfd041e1-825a-4c7a-b104-239d3335d5ff" />
+
 
 ---
 
